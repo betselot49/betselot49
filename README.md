@@ -19,7 +19,7 @@
 
 <pre>Contact me <a href="betselotkidane111@gmail.com">semail</a></pre>
 <br>
-<h2><a href="betselotkidane.netlify.app">Website</a></h2>
+<pre><a href="betselotkidane.netlify.app">Website</a></pre>
 
 
 
