@@ -2,7 +2,7 @@
 <h3 align="center">Competitive programmer and a passionate full-stack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=betselot49&label=Profile%20views&color=0e75b6&style=flat" alt="betselot49" /> </p>
-
+<img align="center" alt="code" src="https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=betselot49" alt="betselot49" /></a> </p>
 
 - 🔭 I’m currently working on **Flutter Project**
@@ -50,7 +50,7 @@
 
 </pre>
 
-<img align="center" alt="code" src="https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rio3210&label=Profile%20views&color=0e75b6&style=flat" alt="rio3210" /> </p>
 
 <h3 align="left">What I can do</h3>
